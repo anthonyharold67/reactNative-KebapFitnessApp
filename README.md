@@ -6,4 +6,4 @@
 https://reactnavigation.org/docs/getting-started
 use 'native-stack' package
 
-<img src="./kebapfitness.gif" alt="example" />
+<img src="./kebapFitness.gif" alt="example" />
