@@ -1,4 +1,4 @@
-# React Native Keba Fitness App Example 
+# React Native Kebap Fitness App Example 
 
 <p>See member registration page and add member</p>
 <p>See member info page</p>
